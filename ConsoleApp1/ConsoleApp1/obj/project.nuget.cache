@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9SW0khB22rO8FXUvuQfNMV1sQgwtBJSV0QlSIK6iZOp/BJ1OVl5rDC1wxOHV9rO07rjitC2s88qFQn/YJuw/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jolita\\Desktop\\Back End\\Group Work\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jolita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
